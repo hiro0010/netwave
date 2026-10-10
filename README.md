@@ -1,15 +1,16 @@
-# 🌊 Netwave
-
 <div align="center">
 
-**Marca principal** — infraestrutura, software e segurança
-
-[![Owner](https://img.shields.io/badge/Owner-hiro0010-FFFFFF?style=flat-square&logo=github&logoColor=white&background=0D1117)](https://github.com/hiro0010)
-[![Site](https://img.shields.io/badge/Site-netwave.cloud-FFFFFF?style=flat-square&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
+<img src="assets/header.svg" alt="NETWAVE" width="100%" />
 
 </div>
 
----
+<div align="center">
+
+[![Owner](https://img.shields.io/badge/Owner-hiro0010-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/netwave) [![Netwave](https://img.shields.io/badge/Netwave-Project-B00000?style=flat-square&labelColor=B00000&logo=googlechrome&logoColor=white)](https://github.com/hiro0010/netwave) [![Status](https://img.shields.io/badge/Status-MARCA-B00000?style=flat-square&labelColor=0D0D0D&logo=gitlab&logoColor=white)](https://github.com/hiro0010/netwave) [![Site](https://img.shields.io/badge/Site-netwave.cloud-B00000?style=flat-square&labelColor=0D0D0D&logo=googlechrome&logoColor=white)](https://github.com/hiro0010/netwave)
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## O que é
 
@@ -33,73 +34,73 @@ de trabalho.
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Axiom](https://github.com/hiro0010/axiom)
+### <a href="https://github.com/hiro0010/axiom">Axiom</a>
 
-**Plataforma de controle desktop.** Núcleo com módulos instaláveis: otimização
+<b>Plataforma de controle desktop.</b> Núcleo com módulos instaláveis: otimização
 de sistema, comunicação social e customização do Discord.
 
 <sub>Electron · React · TypeScript</sub>
 
 <br/>
 
-### 🌐 [Site Netwave](https://netwave.cloud)
+### <a href="https://netwave.cloud">Site Netwave</a>
 
-**Vitrine oficial.** Projetos, store, status e área de conta. Autenticação
+<b>Vitrine oficial.</b> Projetos, store, status e área de conta. Autenticação
 real pelo Netwave ID.
 
 <sub>HTML · CSS · JS · nginx · Docker</sub>
 
 <br/>
 
-### 💚 [Vitalis](https://github.com/hiro0010/vitalis)
+### <a href="https://github.com/hiro0010/vitalis">Vitalis</a>
 
-**Plataforma de resiliência digital.** O sistema imunológico da
+<b>Plataforma de resiliência digital.</b> O sistema imunológico da
 infraestrutura: mapeia dependências, detecta impacto e contém falhas.
 
-<sub>Detecção de falhas ·Fallback · Operação contínua</sub>
+<sub>Detecção de falhas · Fallback · Operação contínua</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 [NetwaveOS](https://github.com/hiro0010/netwaveos)
+### <a href="https://github.com/hiro0010/netwaveos">NetwaveOS</a>
 
-**Sistema operacional Linux próprio.** Distribuição sobre a base CachyOS, com
+<b>Sistema operacional Linux próprio.</b> Distribuição sobre a base CachyOS, com
 Hyprland, dashboard Quickshell e a Yuna embarcada.
 
 <sub>archiso · Hyprland · Quickshell · Calamares</sub>
 
 <br/>
 
-### 🔧 [AxionEngine](https://github.com/hiro0010/axionengine)
+### <a href="https://github.com/hiro0010/axionengine">AxionEngine</a>
 
-**Motor nativo.** Telemetria e otimização de hardware em C++20, exposto como
+<b>Motor nativo.</b> Telemetria e otimização de hardware em C++20, exposto como
 addon N-API para o Axiom.
 
 <sub>C++20 · CMake · N-API · WinAPI</sub>
 
 <br/>
 
-### 🛡️ [Mochi-AC](https://github.com/hiro0010/mochi-ac)
+### <a href="https://github.com/hiro0010/mochi-ac">Mochi-AC</a>
 
-**Anti-cheat de servidor.** Detecção por simulação de movimento e combate,
+<b>Anti-cheat de servidor.</b> Detecção por simulação de movimento e combate,
 para rede mista pirata + premium.
 
 <sub>Java · Paper · PacketEvents</sub>
 
 <br/>
 
-### ⚔️ [NYX Client](https://github.com/hiro0010/nyx-client)
+### <a href="https://github.com/hiro0010/nyx-client">NYX Client</a>
 
-**Mod de PvP e performance.** 38 módulos com ClickGUI, HUD e humanização de
+<b>Mod de PvP e performance.</b> 38 módulos com ClickGUI, HUD e humanização de
 input.
 
 <sub>Java 21 · Fabric 1.21.1 · Gradle</sub>
 
 <br/>
 
-### 🤖 [Axiom Bot](https://github.com/hiro0010/axiom-bot)
+### <a href="https://github.com/hiro0010/axiom-bot">Axiom Bot</a>
 
-**Bot de Discord.** 64 comandos com RBAC por cargo e modlogs.
+<b>Bot de Discord.</b> 64 comandos com RBAC por cargo e modlogs.
 
 <sub>Node · TypeScript · discord.js v14</sub>
 
@@ -123,13 +124,15 @@ vitalício.
 - **Transparência sobre o estado real** — se o checkout não está integrado, o
   site avisa; se a API de status falha, o site diz que não conseguiu confirmar
 - **Código próprio onde importa** — anti-cheat, motor nativo e sistema
-  operacional são developmentados, não apenas consumidos
+  operacional são desenvolvidos, não apenas consumidos
 - **Sem promessas decorativas** — nada de número sem lastro
 
----
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <div align="center">
 
-<sub>Owner: [Hiro](https://github.com/hiro0010) · [netwave.cloud](https://netwave.cloud)</sub>
+<sub>Parte da <a href="https://github.com/hiro0010/netwave">Netwave</a>
+&middot; Owner: <a href="https://github.com/hiro0010">Hiro</a></sub>
 
 </div>
